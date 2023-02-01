@@ -1,0 +1,247 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+ 
+
+/* above navbar */
+
+.above-navbar{
+
+    background:hsl(222, 14%, 10%);;
+
+    display: flex;
+
+    align-items: center;
+
+    color: white;
+
+    justify-content: center;
+
+    font-size: 20px;
+
+    height:50px;
+
+    width:100%;
+
+    position:fixed;
+
+}
+
+ 
+
+/* navbar */
+
+.navbar-section{
+
+    position:fixed;
+
+    margin-top: 50px;
+
+    height:55px;
+
+    width:100%;
+
+    background:#282c34;
+
+    display: flex;
+
+    align-items: center;
+
+}
+
+.navbar-section li{
+
+    list-style: none;
+
+    padding: 0 20px ;
+
+}
+
+.navbar-section li a{
+
+    text-decoration: none;
+
+    font-size: 16px;
+
+    font-family:  Arial, Helvetica, sans-serif;
+
+    font-weight: 100;
+
+    color:white;
+    margin:0px 20px 0px;
+
+}
+.navbar-section i{
+
+    text-decoration: none;
+
+    font-size: 16px;
+
+    font-family:  Arial, Helvetica, sans-serif;
+
+    font-weight: 100;
+
+    color:rgb(33, 169, 173);
+
+}
+
+
+ 
+
+/* display part */
+
+.display-section{
+
+    background:#20232a;
+
+    height:500px;
+
+    width:100%;
+
+    padding:50px;
+
+  margin-top: 0px;
+
+}
+
+abc{
+
+    color:skyblue;
+
+    font-size: 40px;
+
+    font-style: bold;
+
+    font-weight:800;
+
+}
+
+.display-section p{
+
+    color:white;
+
+    font-size: 26px;
+
+    font-weight: 90;
+    
+
+}
+
+ 
+
+.display-section button{
+
+    padding: 8px 8px 8px 6px;
+
+    line-height: 1.5;
+
+    width: 150px;
+
+    background: skyblue;
+
+    border: 1px skyblue;
+
+    color:black;  
+
+    /* margin-top:6%;  */
+
+}
+
+.display-section button:hover{
+
+    background: white;
+
+}
+
+.display-section a{
+
+    margin-left: 25px;
+
+    margin-right: 7px;
+
+    color: skyblue;
+
+    /* margin-top:6%;  */
+
+}
+
+.display-section a:hover{
+
+    color:white;
+
+}
+
+.display-section i{
+
+    color:skyblue;
+
+}
+
+/* feature part */
+
+*{
+    box-sizing: border-box;
+    
+  }
+  .column {
+    float: left;
+    width: 30%;
+    padding: 30px;
+  }
+  
+  .row{
+    margin:100px 40px 0px 0px;
+  }
+  
+  .row:after {
+    display: table;
+  }
+  p{
+    font-size:17px;
+  }
+  .div{
+    font-family: "Times New Roman", Times, serif;
+    color:grey;
+    font-size:30px;
+  }
+
+ 
+
+h2{
+
+   color:rgb(164, 160, 160);
+
+   margin-bottom:25px ;
+
+   font-size: 22px;
+
+   font-family:  Arial, Helvetica, sans-serif;
+
+   font-weight: 100;
+
+}
+
+p{
+
+    font-size: 17px;
+
+    margin-bottom: 30px;
+
+    font-family:  Arial, Helvetica, sans-serif;
+
+    font-weight: 100;
+
+    line-height: 2;
+
+}
+h1{
+    color:blue;
+}
+.react icon{
+    color:blue;
+}
